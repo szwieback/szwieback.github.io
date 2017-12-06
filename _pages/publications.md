@@ -9,15 +9,35 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ## Journal papers
 
+### In press or open review
+
+Sub-seasonal thaw slump mass wasting is not consistently energy limited at the landscape scale
+**S. Zwieback**, S. Kokelj, F. Gunther, J. Boike, G. Grosse, I. Hajnsek.
+In revision at Cryosphere. 
+
+Verification of the Virtual Bandwidth SAR Scheme for Centimetric Resolution Subsurface Imaging From Space 
+A. Edwards-Smith, K. Morrison, **S. Zwieback**, I. Hajnsek
+In press at IEEE Trans. Geosci. Remote Sens.
+
+Sorted patterned ground in karst caves: a case study of Ledenica pod Hrušico Cave, Slovenia.
+J. Obu, J. Kosutnik, P. Overduin, J. Boike, M. Blatnik, **S. Zwieback**, P. Gostincar, A. Mihevc. 
+In press at Permafr. Periglac. Process.
+
+### 2018
+
+On the potential of Polarimetric SAR Interferometry to characterize the biomass, moisture and structure of agricultural crops at L-, C- and X-Bands
+M. Pichierri, I. Hajnsek, **S. Zwieback**, B. Rabus
+Remote Sens. Environ., 204, 596-616, 2018.
+
 ### 2017
 
 Soil moisture estimation using differential radar interferometry: towards separating soil moisture and displacements  
 **S. Zwieback**, S. Hensley, I. Hajnsek  
-IEEE Trans. Geosci. Remote Sens., in press, 2017.
+IEEE Trans. Geosci. Remote Sens., 55(9), 5069-5083, 2017.
 
 Depth-Resolved Backscatter and Differential Interferometric Radar Imaging of Soil Moisture Profiles: Observations and Models of Subsurface Volume Scattering  
 **S. Zwieback**, I. Hajnsek, A. Edwards-Smith, K. Morrison  
-IEEE J. Sel. Topics Appl. Earth Observ., in press, 2017.
+IEEE J. Sel. Topics Appl. Earth Observ., 10(7), 3281-3296, 2017.
 
 ### 2016
 

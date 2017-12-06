@@ -18,6 +18,7 @@ Education
 
 Work experience
 ------
+
 * since 2017: SNSF Postdoctoral Fellow
   * University of Guelph, Canada
 
