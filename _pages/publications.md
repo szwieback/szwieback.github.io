@@ -12,67 +12,67 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ### 2017
 
 Soil moisture estimation using differential radar interferometry: towards separating soil moisture and displacements  
-S. Zwieback, S. Hensley, I. Hajnsek  
+**S. Zwieback**, S. Hensley, I. Hajnsek  
 IEEE Trans. Geosci. Remote Sens., in press, 2017.
 
 Depth-Resolved Backscatter and Differential Interferometric Radar Imaging of Soil Moisture Profiles: Observations and Models of Subsurface Volume Scattering  
-S. Zwieback, I. Hajnsek, A. Edwards-Smith, K. Morrison  
+**S. Zwieback**, I. Hajnsek, A. Edwards-Smith, K. Morrison  
 IEEE J. Sel. Topics Appl. Earth Observ., in press, 2017.
 
 ### 2016
 
 Homogeneity of a global multi-satellite soil moisture climate data record  
-C.-H. Su, D. Ryu, W. Dorigo, S. Zwieback, A. Gruber, C. Albergel, R. Reichle, W. Wagner  
+C.-H. Su, D. Ryu, W. Dorigo, **S. Zwieback**, A. Gruber, C. Albergel, R. Reichle, W. Wagner  
 Geophys. Res. Lett., 43(21), 11245-11252, 2016.
 
 A Statistical Test of Phase Closure to Detect Influences on DInSAR Deformation Estimates Besides Displacements and Decorrelation Noise: Two Case Studies in High-Latitude Regions  
-S. Zwieback, X. Liu, S. Antonova, B. Heim, A. Bartsch, J. Boike, I. Hajnsek  
+**S. Zwieback**, X. Liu, S. Antonova, B. Heim, A. Bartsch, J. Boike, I. Hajnsek  
 IEEE Trans. Geosci. Remote Sens., 54(9), 5588-5601, 2016.
 
 The Impact of Quadratic Nonlinear Relations between Soil Moisture Products on Uncertainty Estimates from Triple Collocation Analysis and Two Quadratic Extensions  
-S. Zwieback, C.-H. Su, A. Gruber, W. Dorigo, W. Wagner  
+**S. Zwieback**, C.-H. Su, A. Gruber, W. Dorigo, W. Wagner  
 J. Hydrometeorol., 17, 1725–1743, 2016.
 
 Influence of vegetation growth on the polarimetric zero-baseline DInSAR phase diversity -- implications for deformation studies  
-S. Zwieback, I. Hajnsek  
+**S. Zwieback**, I. Hajnsek  
 IEEE Trans. Geosci. Remote Sens., 54(5), 3070-3082, 2016.
 
 Recent advances in (soil moisture) triple collocation analysis  
-A. Gruber, C.-H. Su, S. Zwieback, W. Crow, W. Dorigo, W. Wagner  
+A. Gruber, C.-H. Su, **S. Zwieback**, W. Crow, W. Dorigo, W. Wagner  
 Int. J. Appl. Earth. Obs. Geoinf., 45(B), 200-211, 2016.
 
 ### 2015
 
 A Polarimetric First-Order Model of Soil Moisture Effects on the DInSAR Coherence  
-S. Zwieback, S. Hensley, I. Hajnsek  
+**S. Zwieback**, S. Hensley, I. Hajnsek  
 Remote Sens., 7(6), 7571-7596, 2015.
 
 Assessment of soil moisture effects on L-band radar interferometry  
-S. Zwieback, S. Hensley, I. Hajnsek  
+**S. Zwieback**, S. Hensley, I. Hajnsek  
 Remote Sens. Environ., 164, 77-89, 2015.
 
 Frozen Soil Detection Based on Advanced Scatterometer Observations and Air Temperature Data as Part of Soil Moisture Retrieval  
-S. Zwieback, C. Paulik, W. Wagner  
+**S. Zwieback**, C. Paulik, W. Wagner  
 Remote Sens., 7(3), 3206-3231, 2015.
 
 ### Before 2015
 
 Statistical tests for symmetries in polarimetric scattering coherency matrices  
-S. Zwieback, I. Hajnsek  
+**S. Zwieback**, I. Hajnsek  
 IEEE Geosci. Remote Sens. Lett., 11(1), 308-312, 2014.
 
 Characterizing coarse-scale representativeness of in-situ soil moisture measurements from the International Soil Moisture Network  
-A. Gruber, W. Dorigo, S. Zwieback, A. Xaver, W. Wagner  
+A. Gruber, W. Dorigo, **S. Zwieback**, A. Xaver, W. Wagner  
 Vadose Zone J., 12(2), 2013.
 
 Estimation of the temporal autocorrelation structure by the collocation technique with emphasis on soil moisture studies  
-S. Zwieback, W. Dorigo, W. Wagner  
+**S. Zwieback**, W. Dorigo, W. Wagner  
 Hydrolog. Sci. J., 58(8), 1729-1747, 2013.
 
 Probabilistic fusion of Ku and C band scatterometer data for determining the freeze/thaw state  
-S. Zwieback, A. Bartsch, T. Melzer, W. Wagner  
+**S. Zwieback**, A. Bartsch, T. Melzer, W. Wagner  
 IEEE Trans. Geosci. Remote Sens., 50(7), 2583-2594, 2012.
 
 Structural and statistical properties of the collocation technique for error characterization  
-S. Zwieback, K. Scipal, W. Dorigo, W. Wagner  
+**S. Zwieback**, K. Scipal, W. Dorigo, W. Wagner  
 Nonlin. Processes Geophys., 19(1), 69-80, 2012.
