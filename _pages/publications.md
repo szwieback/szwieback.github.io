@@ -11,21 +11,21 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### In press or open review
 
-Sub-seasonal thaw slump mass wasting is not consistently energy limited at the landscape scale
-**S. Zwieback**, S. Kokelj, F. Gunther, J. Boike, G. Grosse, I. Hajnsek.
-In revision at Cryosphere. 
+Sub-seasonal thaw slump mass wasting is not consistently energy limited at the landscape scale  
+**S. Zwieback**, S. Kokelj, F. Gunther, J. Boike, G. Grosse, I. Hajnsek.  
+In revision at Cryosphere.
 
-Verification of the Virtual Bandwidth SAR Scheme for Centimetric Resolution Subsurface Imaging From Space 
-A. Edwards-Smith, K. Morrison, **S. Zwieback**, I. Hajnsek
+Verification of the Virtual Bandwidth SAR Scheme for Centimetric Resolution Subsurface Imaging From Space  
+A. Edwards-Smith, K. Morrison, **S. Zwieback**, I. Hajnsek  
 In press at IEEE Trans. Geosci. Remote Sens.
 
-Sorted patterned ground in karst caves: a case study of Ledenica pod Hrušico Cave, Slovenia.
-J. Obu, J. Kosutnik, P. Overduin, J. Boike, M. Blatnik, **S. Zwieback**, P. Gostincar, A. Mihevc. 
+Sorted patterned ground in karst caves: a case study of Ledenica pod Hrušico Cave, Slovenia  
+J. Obu, J. Kosutnik, P. Overduin, J. Boike, M. Blatnik, **S. Zwieback**, P. Gostincar, A. Mihevc.  
 In press at Permafr. Periglac. Process.
 
 ### 2018
 
-On the potential of Polarimetric SAR Interferometry to characterize the biomass, moisture and structure of agricultural crops at L-, C- and X-Bands
+On the potential of Polarimetric SAR Interferometry to characterize the biomass, moisture and structure of agricultural crops at L-, C- and X-Bands  
 M. Pichierri, I. Hajnsek, **S. Zwieback**, B. Rabus
 Remote Sens. Environ., 204, 596-616, 2018.
 
