@@ -81,8 +81,8 @@ author:
   name             : "Simon Zwieback"
   avatar           : "profile.png"
   bio              : "Postdoctoral fellow in remote sensing and permafrost science"
-  location         : "Guelph, Canada"
-  employer         : "University of Guelph"
+  location         : 
+  employer         : "University of Guelph, Canada"
   googlescholar    : "https://www.researchgate.net/profile/Simon_Zwieback"
   email            :
   uri              :
