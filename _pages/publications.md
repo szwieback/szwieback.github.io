@@ -26,7 +26,7 @@ In press at Permafr. Periglac. Process.
 ### 2018
 
 On the potential of Polarimetric SAR Interferometry to characterize the biomass, moisture and structure of agricultural crops at L-, C- and X-Bands  
-M. Pichierri, I. Hajnsek, **S. Zwieback**, B. Rabus
+M. Pichierri, I. Hajnsek, **S. Zwieback**, B. Rabus  
 Remote Sens. Environ., 204, 596-616, 2018.
 
 ### 2017
