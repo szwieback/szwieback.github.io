@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My main research interests are in microwave remote sensing, land surface processes in permafrost regions and stochastic modelling.
+My main research interests are in microwave remote sensing and land surface processes in permafrost regions.
 
 My current research is focused on monitoring and analysing permafrost dynamics. This work is being conducted at the [University of Guelph](https://www.uoguelph.ca/), where I am an [SNSF](http://www.snf.ch/en/Pages/default.aspx) postdoctoral fellow. The aims of my fellowship are to develop and assess fine-scale methods for estimating soil moisture in the tundra and to incorporate soil moisture estimates into permafrost monitoring schemes. 
 
