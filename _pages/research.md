@@ -7,11 +7,9 @@ author_profile: true
 
 ## Recent highlights
 
-[Thermokarst](#the-drivers-of-thermokarst)
-
-[Remote sensing vegetation-hydrology coupling](#remote-sensing-of-vegetation-hydrology-coupling)
-
-[Permafrost monitoring](#improving-permafrost-monitoring)
+1. [Thermokarst](#the-drivers-of-thermokarst)
+2. [Remote sensing of vegetation-hydrology coupling](#remote-sensing-of-vegetation-hydrology-coupling)
+3. [Permafrost monitoring](#improving-permafrost-monitoring)
 
 ## The drivers of thermokarst
 Permafrost soils are vulernable in a thawing climate, and this is particularly evident at thaw slumps. The melting ground ice causes mass wasting, thus greatly modifying the landscape. I use satellite radar data to map such terrain changes and to elucidate the drivers and controls on permafrost degradation. In collaboration with colleagues from Canada and Germany, I have found that the mass wasting cannot simply be explained by the energy available to melt the ground ice, a finding that helps inform predictions of future permafrost conditions.
