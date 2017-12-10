@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ## Recent highlights
+
 [Thermokarst](#the-drivers-of-thermokarst)
+
 [Remote sensing vegetation-hydrology coupling](#remote-sensing-of-vegetation-hydrology-coupling)
+
 [Permafrost monitoring](#improving-permafrost-monitoring)
 
 ## The drivers of thermokarst
