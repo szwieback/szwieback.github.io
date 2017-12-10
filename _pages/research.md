@@ -19,11 +19,8 @@ author_profile: true
 
 ## Remote sensing of vegetation-hydrology coupling
 
-|<a href="http://szwieback.github.io/files/maplambda.png"><img src="http://szwieback.github.io/files/maplambda.png" align="left" width="390" ></a> | I have detected large but nevertheless subtle biases in the SMAP soil moisture product, which is rapidly being adopted by the community for applications as diverse as yield forecasting and drought monitoring. These biases are caused by an imperfect vegetation correction that has to be applied to convert the SMAP satellite measurements into a soil moisture product. The biases impede the detection of extreme events such as droughts, and they distort estimates of the coupling between hydrology and vegetation. |
-
-
-
-Biases associated with an imperfect vegetation correction correspond to positive lambda values: these are prevalent over croplands.
+|<a href="http://szwieback.github.io/files/maplambda.png"><img src="http://szwieback.github.io/files/maplambda.png" align="left" width="690" ></a> | I have detected large but nevertheless subtle biases in the SMAP soil moisture product, which is rapidly being adopted by the community for applications as diverse as yield forecasting and drought monitoring. These biases are caused by an imperfect vegetation correction that has to be applied to convert the SMAP satellite measurements into a soil moisture product. The biases impede the detection of extreme events such as droughts, and they distort estimates of the coupling between hydrology and vegetation. |
+*Biases associated with an imperfect vegetation correction correspond to positive lambda values: these are prevalent over croplands.*
 
 ## Improving permafrost monitoring
 During the Arctic summer, the surface layer above permafrost thaws. The thawing triggers biological processes that can lead to the release of greenhouse gases, and it poses a hazard to infrastructure. The large-scale monitoring of permafrost conditions is difficult, as both atmospheric conditions and soil properties such as the moisture content play dominant roles. I am currently attempting to improve our monitoring capabilities by incorporating satellite measurements of soil moisture, thus reducing one of the key uncertainties in permafrost monitoring.
