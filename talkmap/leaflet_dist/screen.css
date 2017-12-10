@@ -2,7 +2,7 @@
 	#map {
 		width: 800px; 
 		height: 600px; 
-		border: 1px solid #ccc;
+		border: none;
 	}
 
 	#progress {
