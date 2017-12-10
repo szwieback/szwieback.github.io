@@ -12,13 +12,10 @@ author_profile: true
 3. [Permafrost monitoring](#improving-permafrost-monitoring)
 
 ## The drivers of thermokarst
+<a href="http://szwieback.github.io/files/bykovskybig.png"><img src="http://szwieback.github.io/files/bykovskybig.png" align="left" width="480" ></a>
 Permafrost soils are vulernable in a thawing climate, and this is particularly evident at thaw slumps. The melting ground ice causes mass wasting, thus greatly modifying the landscape. I use satellite radar data to map such terrain changes and to elucidate the drivers and controls on permafrost degradation. In collaboration with colleagues from Canada and Germany, I have found that the mass wasting cannot simply be explained by the energy available to melt the ground ice, a finding that helps inform predictions of future permafrost conditions.
 
-![Bykovsky](http://szwieback.github.io/files/bykovskybig.png)
-
-<a href="url"><img src="http://szwieback.github.io/files/bykovskybig.png" align="left" width="480" ></a>
-
-Elevation changes derived from TanDEM-X satellite data are negative (blue) at thaw slumps (orange arrows).
+*Figure: Elevation changes derived from TanDEM-X satellite data are negative (blue) at thaw slumps (orange arrows).*
 
 ## Remote sensing of vegetation-hydrology coupling
 I have detected large but nevertheless subtle biases in the SMAP soil moisture product, which is rapidly being adopted by the community for applications as diverse as yield forecasting and drought monitoring. These biases are caused by an imperfect vegetation correction that has to be applied to convert the SMAP satellite measurements into a soil moisture product. The biases impede the detection of extreme events such as droughts, and they distort estimates of the coupling between hydrology and vegetation.
