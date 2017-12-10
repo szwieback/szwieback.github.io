@@ -22,4 +22,4 @@ author_profile: true
 
 |<a href="http://szwieback.github.io/files/cryogrid3.png"><img src="http://szwieback.github.io/files/cryogrid3.png" align="left" width="390" ></a> | During the Arctic summer, the surface layer above permafrost thaws. The thawing triggers biological processes that can lead to the release of greenhouse gases, and it can pose a hazard to infrastructure. The large-scale monitoring of permafrost conditions is difficult, as both atmospheric conditions and soil properties such as the moisture content play dominant roles. I am currently attempting to improve our monitoring capabilities by incorporating satellite measurements of soil moisture, thus reducing one of the key uncertainties in permafrost monitoring. |
 
-* Organic soils are such poor conductors of heat when they are dry that a dry surface layer can insulate the frozen soil underneath.*
+*Organic soils are such poor conductors of heat when they are dry that a dry surface layer can insulate the frozen soil underneath.*
