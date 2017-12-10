@@ -16,7 +16,7 @@ Permafrost soils are vulernable in a thawing climate, and this is particularly e
 
 ![Bykovsky](http://szwieback.github.io/files/bykovskybig.png)
 
-<a href="url"><img src="http://szwieback.github.io/files/bykovskybig.png" align="left" width="48" ></a>
+<a href="url"><img src="http://szwieback.github.io/files/bykovskybig.png" align="left" width="480" ></a>
 
 Elevation changes derived from TanDEM-X satellite data are negative (blue) at thaw slumps (orange arrows).
 
