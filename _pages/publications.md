@@ -11,19 +11,26 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### In press or open review
 
-Sub-seasonal thaw slump mass wasting is not consistently energy limited at the landscape scale  
-**S. Zwieback**, S. Kokelj, F. Gunther, J. Boike, G. Grosse, I. Hajnsek.  
-In revision at Cryosphere.
-
-Verification of the Virtual Bandwidth SAR Scheme for Centimetric Resolution Subsurface Imaging From Space  
-A. Edwards-Smith, K. Morrison, **S. Zwieback**, I. Hajnsek  
-In press at IEEE Trans. Geosci. Remote Sens.
+Estimating time-variable vegetation biases in the SMAP soil moisture product.
+**S. Zwieback**, A. Colliander, M. H. Cosh, J. Martinez-Fernandez, H. McNairn, P. J. Starks, M. Thibeault, A. Berg. 
+Hydrol. Earth Sys. Sci., in open discussion.
 
 Sorted patterned ground in karst caves: a case study of Ledenica pod Hrušico Cave, Slovenia  
 J. Obu, J. Kosutnik, P. Overduin, J. Boike, M. Blatnik, **S. Zwieback**, P. Gostincar, A. Mihevc.  
 In press at Permafr. Periglac. Process.
 
 ### 2018
+
+Sub-seasonal thaw slump mass wasting is not consistently energy limited at the landscape scale  
+**S. Zwieback**, S. Kokelj, F. Gunther, J. Boike, G. Grosse, I. Hajnsek. 
+Cryosphere, 12, 549-564, 2018.
+
+Dependence of C-band backscatter on snow height, air- and ground temperature in Arctic permafrost regions
+H. Bergstedt, **S. Zwieback**, A. Bartsch, M. Leibmann. Remote Sens., 10, 142, 2018.
+
+Verification of the Virtual Bandwidth SAR Scheme for Centimetric Resolution Subsurface Imaging From Space 
+A. Edwards-Smith, K. Morrison, **S. Zwieback**, I. Hajnsek  
+IEEE Trans. Geosci. Remote Sens., 56(1), 25-34, 2018.
 
 On the potential of Polarimetric SAR Interferometry to characterize the biomass, moisture and structure of agricultural crops at L-, C- and X-Bands  
 M. Pichierri, I. Hajnsek, **S. Zwieback**, B. Rabus  
