@@ -12,7 +12,7 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ### 2019
 
 Fine-scale SAR soil moisture estimation in the Subarctic tundra  
-**S. Zwieback*, A. Berg  
+**S. Zwieback**, A. Berg  
 IEEE Trans. Geosci. Remote Sens., in press, 2019.  
 
 Improving permafrost monitoring by assimilating remotely sensed soil moisture data  
