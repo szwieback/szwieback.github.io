@@ -9,6 +9,16 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ## Journal papers
 
+### 2019
+
+Fine-scale SAR soil moisture estimation in the Subarctic tundra
+S. Zwieback, A. Berg
+IEEE Trans. Geosci. Remote Sens., in press, 2019.
+
+Improving permafrost monitoring by assimilating remotely sensed soil moisture data
+**S. Zwieback, S. Westermann, J. Boike, P. Marsh, A. Berg
+Water Resour. Res., in press, 2019.
+
 ### 2018
 
 Estimating time-variable vegetation biases in the SMAP soil moisture product.  
