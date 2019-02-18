@@ -11,34 +11,35 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### 2019
 
-Fine-scale SAR soil moisture estimation in the Subarctic tundra
-S. Zwieback, A. Berg
-IEEE Trans. Geosci. Remote Sens., in press, 2019.
+Fine-scale SAR soil moisture estimation in the Subarctic tundra  
+**S. Zwieback*, A. Berg  
+IEEE Trans. Geosci. Remote Sens., in press, 2019.  
 
-Improving permafrost monitoring by assimilating remotely sensed soil moisture data
-**S. Zwieback, S. Westermann, J. Boike, P. Marsh, A. Berg
-Water Resour. Res., in press, 2019.
+Improving permafrost monitoring by assimilating remotely sensed soil moisture data  
+**S. Zwieback**, S. Westermann, J. Boike, P. Marsh, A. Berg  
+Water Resour. Res., in press, 2019.  
 
 ### 2018
 
-Estimating time-variable vegetation biases in the SMAP soil moisture product.  
+Estimating time-variable vegetation biases in the SMAP soil moisture product  
 **S. Zwieback**, A. Colliander, M. H. Cosh, J. Martinez-Fernandez, H. McNairn, P. J. Starks, M. Thibeault, A. Berg.  
 Hydrol. Earth Sys. Sci., 22, 4473-4489, 2018.
 
 Permafrost thaw subsidence in the Lena River Delta, Siberia, measured in situ and estimated from TerraSAR-X interferometry.  
-S. Antonova, H. Sudhaus, A. Kaab, T. Strozzi, B. Heim, M. Langer, **S. Zwieback**, N. Bornemann, J. Boike. 
+S. Antonova, H. Sudhaus, A. Kaab, T. Strozzi, B. Heim, M. Langer, **S. Zwieback**, N. Bornemann, J. Boike  
 Remote Sens., 10(4), 494, 2018. 
 
 Sorted patterned ground in karst caves: a case study of Ledenica pod Hrušico Cave, Slovenia  
-J. Obu, J. Kosutnik, P. Overduin, J. Boike, M. Blatnik, **S. Zwieback**, P. Gostincar, A. Mihevc.  
-Permafr. Periglac. Process., 29, 121–130, 2018.
+J. Obu, J. Kosutnik, P. Overduin, J. Boike, M. Blatnik, **S. Zwieback**, P. Gostincar, A. Mihevc  
+Permafr. Periglac. Process., 29, 121–130, 2018.  
 
 Sub-seasonal thaw slump mass wasting is not consistently energy limited at the landscape scale  
 **S. Zwieback**, S. Kokelj, F. Gunther, J. Boike, G. Grosse, I. Hajnsek.  
-Cryosphere, 12, 549-564, 2018.
+Cryosphere, 12, 549-564, 2018.  
 
 Dependence of C-band backscatter on snow height, air- and ground temperature in Arctic permafrost regions  
-H. Bergstedt, **S. Zwieback**, A. Bartsch, M. Leibmann. Remote Sens., 10, 142, 2018.  
+H. Bergstedt, **S. Zwieback**, A. Bartsch, M. Leibmann.  
+Remote Sens., 10, 142, 2018.  
 
 Verification of the Virtual Bandwidth SAR Scheme for Centimetric Resolution Subsurface Imaging From Space  
 A. Edwards-Smith, K. Morrison, **S. Zwieback**, I. Hajnsek  
