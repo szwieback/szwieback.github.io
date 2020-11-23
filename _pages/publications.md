@@ -11,22 +11,22 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### 2021
 
-Repeat-pass interferometric speckle
-**S. Zwieback**, F. Meyer
+Repeat-pass interferometric speckle  
+**S. Zwieback**, F. Meyer  
 IEEE Trans. Geosci. Remote Sens., in press.
 
 ### 2020
 
-Linking tundra vegetation, snow, soil temperature, and permafrost
-I. Gruenberg, E. Wilcox, **S. Zwieback**, P. Marsh, J. Boike
+Linking tundra vegetation, snow, soil temperature, and permafrost  
+I. Gruenberg, E. Wilcox, **S. Zwieback**, P. Marsh, J. Boike  
 Biogeosciences, 17(16), 4261--4279, 2020.
 
-Debris cover on thaw slumps and its insulative role in a warming climate
-**S. Zwieback**, J. Boike, P. Marsh, A. Berg
+Debris cover on thaw slumps and its insulative role in a warming climate  
+**S. Zwieback**, J. Boike, P. Marsh, A. Berg  
 Earth Surf. Process. Landf., doi:10.1002/esp.4919, 2020.
 
-Mapping Retrogressive Thaw Slumps Using Single-Pass TanDEM-X Observations
-*P. Bernhard*, **S. Zwieback**, S. Leinss, I. Hajnsek
+Mapping Retrogressive Thaw Slumps Using Single-Pass TanDEM-X Observations  
+*P. Bernhard*, **S. Zwieback**, S. Leinss, I. Hajnsek  
 IEEE J. Sel. Topics Appl. Earth Observ., 13, 3263--3280, 2020.
 
 ### 2019
@@ -35,23 +35,23 @@ Vegetation--soil moisture coupling from dual-polarization microwave radiometry u
 **S. Zwieback**, M. Cosh, P. Starks, D. Bosch, A. Berg  
 Remote Sens. Environ., 231, 111257, 2019.
 
-Estimating Arctic treeline forest height using TanDEM-X data
-S. Antonova, C. Thiel, B. Hofle, K. Anders, V. Helm, **S. Zwieback**, S. Marx, J. Boike
+Estimating Arctic treeline forest height using TanDEM-X data  
+S. Antonova, C. Thiel, B. Hofle, K. Anders, V. Helm, **S. Zwieback**, S. Marx, J. Boike  
 Remote Sens. Environ., 231, 111251, 2019.
 
-Shrub tundra ecohydrology: Rainfall interception is a major component of the water balance
-**S. Zwieback**, Q. Chang, P. Marsh, A. Berg
+Shrub tundra ecohydrology: Rainfall interception is a major component of the water balance  
+**S. Zwieback**, Q. Chang, P. Marsh, A. Berg  
 Environ. Res. Let., 14, 055005, 2019.
 
-Improving permafrost modeling by assimilating remotely sensed soil moisture data
-**S. Zwieback**, S. Westermann, M. Langer, J. Boike, P. Marsh, A. Berg
+Improving permafrost modeling by assimilating remotely sensed soil moisture data  
+**S. Zwieback**, S. Westermann, M. Langer, J. Boike, P. Marsh, A. Berg  
 Water Resour. Res., 55, 1813-1832, 2019.
 
-Fine-scale SAR soil moisture estimation in the sub-Arctic tundra
-**S. Zwieback**, A. Berg
+Fine-scale SAR soil moisture estimation in the sub-Arctic tundra  
+**S. Zwieback**, A. Berg  
 IEEE Trans. Geosci. Remote Sens., 57(7), 4898-4912, 2019.
 
-Correction to “A Statistical Test of Phase Closure to Detect Influences on DInSAR Deformation Estimates Besides Displacements and Decorrelation Noise: Two Case Studies in High-Latitude Regions”
+Correction to “A Statistical Test of Phase Closure to Detect Influences on DInSAR Deformation Estimates Besides Displacements and Decorrelation Noise: Two Case Studies in High-Latitude Regions”  
 **S. Zwieback**, *X. Liu*, S. Antonova, B. Heim, A. Bartsch, J. Boike, I. Hajnsek  
 IEEE Trans. Geosci. Remote Sens., 57(1), 623-623, 2019.
 
