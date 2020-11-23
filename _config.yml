@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simon Zwieback"
 title_separator          : "-"
 name                     : &name "Simon Zwieback"
-description              : &description "Postdoctoral fellow at the University of Guelph"
+description              : &description "University of Alaska Fairbanks"
 url                      : https://szwieback.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "szwieback/szwieback.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Simon Zwieback"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral fellow in remote sensing and permafrost science"
+  bio              : "Arctic remote sensing"
   location         : 
-  employer         : "University of Guelph, Canada"
-  googlescholar    : "https://scholar.google.com/citations?user=1if-Y14AAAAJ&hl=en&oi=ao"
+  employer         : "University of Alaska Fairbanks"
+  googlescholar    : "https://scholar.google.com/citations?user=3elzI20AAAAJ&hl=en&oi=ao"
   email            :
   uri              : "https://www.researchgate.net/profile/Simon_Zwieback"
   bitbucket        :

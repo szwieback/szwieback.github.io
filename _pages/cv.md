@@ -18,10 +18,14 @@ Education
 
 Work experience
 ------
-
-* since 2017: SNSF Postdoctoral Fellow
+* from 2021: Assistant Professor
+  * University of Alaska Fairbanks
+  
+* 2019-2020: Research Associate
+  * University of Alaska Fairbanks
+  
+* 2017-2019: SNSF Postdoctoral Fellow
   * University of Guelph, Canada
-
 
 * 2016--2017: Postdoctoral Research Associate
   * ETH Zurich, Switzerland

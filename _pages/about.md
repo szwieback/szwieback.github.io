@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My main research interests are in microwave remote sensing and land surface processes in permafrost regions.
-
-My current research is focused on monitoring and analysing permafrost dynamics. This work is being conducted at the [University of Guelph](https://www.uoguelph.ca/), where I am an [SNSF](http://www.snf.ch/en/Pages/default.aspx) postdoctoral fellow. The aims of my fellowship are to develop and assess fine-scale methods for estimating soil moisture in the tundra and to incorporate soil moisture estimates into permafrost monitoring schemes. 
-
-Previously, I was a PhD student and postdoctoral fellow at [ETH Zurich](http://www.eo.ifu.ethz.ch/), Switzerland. My PhD project focused on the radar remote sensing technique differential SAR interferometry, which can provide synoptic estimates of subtle surface deformations. I investigated how soil moisture and vegetation changes impact these measurements and how the associated errors can be either corrected for or harnessed to estimate soil moisture changes. 
+I use remote sensing to characterize and understand land surface processes in permafrost regions. My research program strives to combine technical advances in remote sensing of high-latitude regions with an improved understanding of the rapidly changing Arctic. The remote sensing component is focused on developing scattering models and estimation techniques for a range of observation modalities. By combining these remote sensing advances with field observations and models, I aim to quantify and predict permafrost terrain dynamics. My primary objectives are to map ground ice contents on regional scales and to identify the drivers and controls of various types of permafrost degradation and stabilization.
