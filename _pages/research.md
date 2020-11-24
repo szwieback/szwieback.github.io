@@ -6,20 +6,20 @@ author_profile: true
 ---
 
 
-## The drivers of thermokarst
+## Permafrost terrain dynamics
 
-|<a href="http://szwieback.github.io/files/bykovskybig.png"><img src="http://szwieback.github.io/files/bykovskybig.png" align="left" width="390" ></a> | Permafrost soils are vulernable in a thawing climate, and this is particularly evident at thaw slumps. The melting ground ice causes mass wasting, thus greatly modifying the landscape. I use satellite radar data to map such terrain changes and to elucidate the drivers and controls on permafrost degradation. In collaboration with colleagues from Canada and Germany, I have found that the mass wasting cannot simply be explained by the energy available to melt the ground ice, a finding that helps inform predictions of future permafrost conditions. |
+|<a href="http://szwieback.github.io/files/kivalinats.png"><img src="http://szwieback.github.io/files/kivalinats.png" align="left" width="390" ></a> | Where permafrost is rich in ground ice, warming and disturbances can induce terrain subsidence, slumping, and collapse. However, we lack spatially resolved information on the drivers and controls of permafrost degradation and stabilization. In particular, we lack fine-scale maps of ground ice over most of the Arctic. I am currently exploring the subseasonal dynamics of thaw subsidence to constrain ice contents at the top of the permafrost. |
 
-*Elevation changes derived from TanDEM-X satellite data are negative (blue) at thaw slumps (orange arrows).*
+*Acceleration of seasonal subsidence measured by Sentinel-1 in an extreme summer such as 2019 is an indicator of ice-rich permafrost.*
 
-## Remote sensing of vegetation-hydrology coupling
+## Scattering models and estimation algorithms for Arctic environments
+|<a href="http://szwieback.github.io/files/speckle.png"><img src="http://szwieback.github.io/files/speckle.png" align="left" width="390" ></a> | Arctic ecosystems present numerous challenges for remote sensing models and estimation algorithms, including microtopographic features such as ice wedge polygons and organic soils. I am developing bespoke remote sensing solutions for measuring permafrost terrain changes, soil moisture, and vegetation moisture. The theoretical and empirical characterization of model and estimation errors is an integral component of my work.  |
 
-|<a href="http://szwieback.github.io/files/maplambda.png"><img src="http://szwieback.github.io/files/maplambda.png" align="left" width="390" ></a> | I have detected large but nevertheless subtle biases in the SMAP soil moisture product, which is rapidly being adopted by the community for applications as diverse as yield forecasting and drought monitoring. These biases are caused by an imperfect vegetation correction that has to be applied to convert the SMAP satellite measurements into a soil moisture product. The biases impede the detection of extreme events such as droughts, and they distort estimates of the coupling between hydrology and vegetation. |
+*In the permafrost wetland with degrading ice-wedge polygons, our KMWG interferometric speckle model fits the observations better than existing models (green and yellow).*
+
+## Ecohydrology
+
+|<a href="http://szwieback.github.io/files/maplambda.png"><img src="http://szwieback.github.io/files/maplambda.png" align="left" width="390" ></a> | I have detected large but nevertheless subtle biases in the SMAP soil moisture product, which critical to applications as diverse as yield forecasting and drought monitoring. These biases are caused by an imperfect vegetation correction that has to be applied to convert the SMAP satellite measurements into a soil moisture product. The biases impede the detection of extreme events such as droughts, and they distort estimates of the coupling between hydrology and vegetation. |
 
 *Biases associated with an imperfect vegetation correction correspond to positive lambda values: these are prevalent over croplands.*
 
-## Improving permafrost monitoring
-
-|<a href="http://szwieback.github.io/files/cryogrid3.png"><img src="http://szwieback.github.io/files/cryogrid3.png" align="left" width="390" ></a> | During the Arctic summer, the surface layer above permafrost thaws. The thawing triggers biological processes that can lead to the release of greenhouse gases, and it can pose a hazard to infrastructure. The large-scale monitoring of permafrost conditions is difficult, as both atmospheric conditions and soil properties such as the moisture content play dominant roles. I am currently attempting to improve our monitoring capabilities by incorporating satellite measurements of soil moisture, thus reducing one of the key uncertainties in permafrost monitoring. |
-
-*Organic soils are such poor conductors of heat when they are dry that a dry surface layer can insulate the frozen soil underneath.*
