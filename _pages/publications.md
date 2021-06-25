@@ -11,6 +11,10 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### 2021
 
+Top-of-permafrost ground ice indicated by remotely sensed late-season subsidence  
+**S. Zwieback**, F. Meyer  
+The Cryosphere, 15, 2041–2055, doi:10.5194/tc-15-2041-2021, 2021. 
+
 Repeat-pass interferometric speckle  
 **S. Zwieback**, F. Meyer  
 IEEE Trans. Geosci. Remote Sens., in press.
