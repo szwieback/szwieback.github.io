@@ -10,6 +10,16 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ## Journal papers
 
 ### 2021
+Topographic asymmetry across the Arctic  
+**S. Zwieback**  
+Geophys. Res. Let., 48, e2021GL094895, 2021.
+
+Radar Interferometric Phase Errors Induced by Faraday Rotation  
+**S. Zwieback**, F. Meyer  
+IEEE Trans. Geosci. Remote Sens., in press.
+
+Standardized monitoring of permafrost thaw: a user-friendly, multi-parameter protocol  
+J. Boike, S. Chadburn, J. Martin, **S. Zwieback**, I. Althuizen, N. Anselm, L. Cai, S. Coulombe, H. Lee, A. Liljedahl, M. Schneebeli, Y. Sjoberg, N. Smith, S. Smith, D. Streletskiy, S. Stuenzi, S. Westermann, E. Wilcox   Arctic Sci., in press.
 
 Top-of-permafrost ground ice indicated by remotely sensed late-season subsidence  
 **S. Zwieback**, F. Meyer  
@@ -17,7 +27,7 @@ The Cryosphere, 15, 2041–2055, doi:10.5194/tc-15-2041-2021, 2021.
 
 Repeat-pass interferometric speckle  
 **S. Zwieback**, F. Meyer  
-IEEE Trans. Geosci. Remote Sens., in press.
+IEEE Trans. Geosci. Remote Sens., 59(8), 676-6750, 2021.
 
 ### 2020
 
