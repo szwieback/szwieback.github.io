@@ -10,6 +10,10 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ## Journal papers
 
 ### 2021
+Application of L-band SAR for mapping tundra shrub biomass, leaf area index, and rainfall interception  
+Q. Chang, **S. Zwieback**, B. DeVries, A. Berg  
+Remote Sens. Environ., 268, 112747, 2022.
+
 Topographic asymmetry across the Arctic  
 **S. Zwieback**  
 Geophys. Res. Let., 48, e2021GL094895, 2021.
