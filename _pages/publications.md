@@ -9,18 +9,25 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ## Journal papers
 
-### 2021
+### 2022
+
+Assessing volumetric change distributions and scaling relations of retrogressive thaw slumps across the Arctic  
+P. Bernhard, **S. Zwieback**, N. Bergner, I. Hajnsek  
+The Cryosphere, 16, 1–15, doi:10.5194/tc-16-1-2022, 2022. 
+
 Application of L-band SAR for mapping tundra shrub biomass, leaf area index, and rainfall interception  
 Q. Chang, **S. Zwieback**, B. DeVries, A. Berg  
 Remote Sens. Environ., 268, 112747, 2022.
 
+Radar Interferometric Phase Errors Induced by Faraday Rotation  
+**S. Zwieback**, F. Meyer  
+IEEE Trans. Geosci. Remote Sens., 60, 1-11, 2022.
+
+### 2021
+
 Topographic asymmetry across the Arctic  
 **S. Zwieback**  
 Geophys. Res. Let., 48, e2021GL094895, 2021.
-
-Radar Interferometric Phase Errors Induced by Faraday Rotation  
-**S. Zwieback**, F. Meyer  
-IEEE Trans. Geosci. Remote Sens., in press.
 
 Standardized monitoring of permafrost thaw: a user-friendly, multi-parameter protocol  
 J. Boike, S. Chadburn, J. Martin, **S. Zwieback**, I. Althuizen, N. Anselm, L. Cai, S. Coulombe, H. Lee, A. Liljedahl, M. Schneebeli, Y. Sjoberg, N. Smith, S. Smith, D. Streletskiy, S. Stuenzi, S. Westermann, E. Wilcox   Arctic Sci., in press.
