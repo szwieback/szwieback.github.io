@@ -11,6 +11,10 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### 2022
 
+Reliable InSAR phase history uncertainty estimates  
+**S. Zwieback**, F. Meyer  
+IEEE Trans. Geosci. Remote Sens., in press.
+
 Assessing volumetric change distributions and scaling relations of retrogressive thaw slumps across the Arctic  
 P. Bernhard, **S. Zwieback**, N. Bergner, I. Hajnsek  
 The Cryosphere, 16, 1–15, doi:10.5194/tc-16-1-2022, 2022. 
