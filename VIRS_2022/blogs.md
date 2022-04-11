@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Introduction
-This page will host the blog posts summarizing the students' final projects for the 2022 Visible and Infrared Remote Sensing class at UAF. Only those posts that the students wanted to publish online are shown. 
+The final project is an integral part of the course. The blog posts shown below summarize the students' final projects from 2022. Only those posts that the students agreed to have published here are shown. 
 
 ## Melt ponds
 
