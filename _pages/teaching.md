@@ -7,7 +7,7 @@ author_profile: true
 
 ## Digital Image Processing in the Geosceinces
 
-<img src="http://szwieback.github.io/files/lakeice.jpg" align="left" width="390" > | Image processing and analysis techniques to monitor and understand the Earth system. Geoscience applications to be addressed include thin-section analysis, remote sensing of geohazards and geomorphometry. Apart from lectures and demonstrations, the advantages and drawbacks of image processing techniques will be evaluated through exercises and a course project. | 
+|<img src="http://szwieback.github.io/files/lakeice.jpg" align="left" width="390" > | Image processing and analysis techniques to monitor and understand the Earth system. Geoscience applications to be addressed include thin-section analysis, remote sensing of geohazards and geomorphometry. Apart from lectures and demonstrations, the advantages and drawbacks of image processing techniques will be evaluated through exercises and a course project. | 
 
 <a href="http://szwieback.github.io/files/syllabus_622_2022.pdf">Syllabus</a>
 
