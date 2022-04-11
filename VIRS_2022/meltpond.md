@@ -1,4 +1,8 @@
-# Melt pond depth from Sentinel 2
+---
+layout: archive
+title: "Melt pond depth from Sentinel 2"
+author_profile: false
+---
 
 **Jane Doe's 2022 VIRS project**
 
