@@ -9,5 +9,5 @@ author_profile: true
 
 ## Melt ponds
 
-<img src="meltpond.jpg" align="left" width="390" > [Jane Doe: Melt pond depth from Sentinel 2](meltpond.md)|
+<img src="meltpond.jpg" align="left" width="390" > | [Jane Doe: Melt pond depth from Sentinel 2](meltpond.md)|
 
