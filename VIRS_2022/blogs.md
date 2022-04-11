@@ -9,7 +9,7 @@ author_profile: true
 
 ## Melt ponds
 
-|<img src="/VIRS2022/meltpond.jpg" align="left" width="390" > | [Jane Doe: Melt pond depth from Sentinel 2](meltpond.md)|
+|<img src="/VIRS_2022/meltpond.jpg" align="left" width="390" > | [Jane Doe: Melt pond depth from Sentinel 2](meltpond.md)|
 
 |![Patagonia melt pond](meltpond.jpg)*Not quite the same thing.* | [Jane Doe: Melt pond depth from Sentinel 2](meltpond.md)|
 
