@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Blogs"
 author_profile: true
 ---
 
