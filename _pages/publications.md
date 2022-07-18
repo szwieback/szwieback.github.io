@@ -11,6 +11,14 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### 2022
 
+Increased water content in the active layer revealed by regional-scale InSAR and independent component analysis on the central Qinghai-Tibet Plateau  
+J. Chen, T. Wu, L. Liu, W. Gong, **S. Zwieback**, D. Zou, X. Zhu, G. Hu, E. Du, X. Wu, R. Li, S. Zang  
+Geophys. Res. Let., in press.
+
+Accelerated mobilization of organic carbon from retrogressive thaw slumps on the northern Taymyr Peninsula  
+P. Bernhard, **S. Zwieback**, I. Hajnsek  
+The Cryosphere, 16, 2819-2835, doi:10.5194/tc-16-2819-2022, 2022.
+
 Reliable InSAR phase history uncertainty estimates  
 **S. Zwieback**, F. Meyer  
 IEEE Trans. Geosci. Remote Sens., in press.
