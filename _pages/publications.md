@@ -11,9 +11,13 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ### 2022
 
+Cheap, valid regularizers for improved interferometric phase linking   
+**S. Zwieback**   
+IEEE Geoscience and Remote Sensing Letters, 19, 4512704, doi:10.1109/LGRS.2022.3197423, 2022.
+
 Increased water content in the active layer revealed by regional-scale InSAR and independent component analysis on the central Qinghai-Tibet Plateau  
 J. Chen, T. Wu, L. Liu, W. Gong, **S. Zwieback**, D. Zou, X. Zhu, G. Hu, E. Du, X. Wu, R. Li, S. Zang  
-Geophys. Res. Let., in press.
+Geophys. Res. Let., 49, e2021GL097586, doi:10.1029/2021GL097586, 2022.
 
 Accelerated mobilization of organic carbon from retrogressive thaw slumps on the northern Taymyr Peninsula  
 P. Bernhard, **S. Zwieback**, I. Hajnsek  
@@ -21,7 +25,7 @@ The Cryosphere, 16, 2819-2835, doi:10.5194/tc-16-2819-2022, 2022.
 
 Reliable InSAR phase history uncertainty estimates  
 **S. Zwieback**, F. Meyer  
-IEEE Trans. Geosci. Remote Sens., in press.
+IEEE Trans. Geosci. Remote Sens., 60, 5222109, 10.1109/TGRS.2022.3146816, 2022.
 
 Assessing volumetric change distributions and scaling relations of retrogressive thaw slumps across the Arctic  
 P. Bernhard, **S. Zwieback**, N. Bergner, I. Hajnsek  
@@ -42,7 +46,8 @@ Topographic asymmetry across the Arctic
 Geophys. Res. Let., 48, e2021GL094895, 2021.
 
 Standardized monitoring of permafrost thaw: a user-friendly, multi-parameter protocol  
-J. Boike, S. Chadburn, J. Martin, **S. Zwieback**, I. Althuizen, N. Anselm, L. Cai, S. Coulombe, H. Lee, A. Liljedahl, M. Schneebeli, Y. Sjoberg, N. Smith, S. Smith, D. Streletskiy, S. Stuenzi, S. Westermann, E. Wilcox   Arctic Sci., in press.
+J. Boike, S. Chadburn, J. Martin, **S. Zwieback**, I. Althuizen, N. Anselm, L. Cai, S. Coulombe, H. Lee, A. Liljedahl, M. Schneebeli, Y. Sjoberg, N. Smith, S. Smith, D. Streletskiy, S. Stuenzi, S. Westermann, E. Wilcox  
+Arctic Sci., Arctic Science. 8(1): 153-182, doi:10.1139/as-2021-0007, 2022.
 
 Top-of-permafrost ground ice indicated by remotely sensed late-season subsidence  
 **S. Zwieback**, F. Meyer  
