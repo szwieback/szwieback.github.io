@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Geoscience Applications of Remote Sensing
+
+|<a href="http://szwieback.github.io/files/syllabus_422_2023.pdf"><img src="http://szwieback.github.io/files/geos422.png" align="left" width="390" ></a> | Remote sensing and its applications to geologic, environmental and physical sciences. Includes physical principles, digital image processing and hands-on project experience using satellite images for mapping and change detection. |
+
+<a href="http://szwieback.github.io/files/syllabus_422_2023.pdf">Syllabus</a>
+
+*Spring 2023*
+
 ## Digital Image Processing in the Geosceinces
 
 |<img src="http://szwieback.github.io/files/lakeice.jpg" align="left" width="390" > | Image processing and analysis techniques to monitor and understand the Earth system. Geoscience applications to be addressed include thin-section analysis, remote sensing of geohazards and geomorphometry. Apart from lectures and demonstrations, the advantages and drawbacks of image processing techniques will be evaluated through exercises and a course project. | 
@@ -23,7 +31,7 @@ author_profile: true
 
 ## Geoscience Applications of Remote Sensing
 
-|<a href="http://szwieback.github.io/files/syllabus_422.pdf"><img src="http://szwieback.github.io/files/australia422.png" align="left" width="390" ></a> | Remote sensing and its applications to geologic, environmental and physical sciences. Includes physical principles, digital image processing and hands-on project experience using satellite images for mapping and change detection.. |
+|<a href="http://szwieback.github.io/files/syllabus_422.pdf"><img src="http://szwieback.github.io/files/australia422.png" align="left" width="390" ></a> | Remote sensing and its applications to geologic, environmental and physical sciences. Includes physical principles, digital image processing and hands-on project experience using satellite images for mapping and change detection. |
 
 *Fall 2021*
 
