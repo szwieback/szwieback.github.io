@@ -7,8 +7,7 @@ author_profile: true
 
 ## Big Geospatial Data
 
-|<img src="http://szwieback.github.io/files/bgd.png" align="left" width="390" > | Analysis of large geospatial data sets and data-driven modeling for solving geoscientific problems. The class intertwines i) cloud-based processing of big vector and raster data sets from GPS surveys, models and remote
-sensing, and ii) predictive modeling using data science techniques such as Random Forests. | 
+|<img src="http://szwieback.github.io/files/bgd.png" align="left" width="390" > | Analysis of large geospatial data sets and data-driven modeling for solving geoscientific problems. The class intertwines i) cloud-based processing of big vector and raster data sets from GPS surveys, models and remote sensing, and ii) predictive modeling using data science techniques such as Random Forests. | 
 
 <a href="http://szwieback.github.io/files/syllabus_bgd_graduate_2023.pdf">Syllabus</a>
 
