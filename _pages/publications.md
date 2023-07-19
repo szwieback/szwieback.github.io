@@ -9,6 +9,12 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ## Journal papers
 
+### 2023
+
+Patterns and rates of soil movement and shallow failures across several small watersheds on the Seward Peninsula, Alaska   
+J. Del Vechio, E. Lathrop, J. Dann, C. Andresen, A. Collins, M. Fratkin, **S. Zwieback**, R. Glade, J. Rowland   
+Earth Surf. Dyn., 11, 227–245, doi:10.5194/esurf-11-227-2023, 2023. 
+
 ### 2022
 
 Cheap, valid regularizers for improved interferometric phase linking   

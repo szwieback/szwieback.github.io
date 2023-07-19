@@ -5,6 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Big Geospatial Data
+
+|<img src="http://szwieback.github.io/files/bgd.png" align="left" width="390" > | Analysis of large geospatial data sets and data-driven modeling for solving geoscientific problems. The class intertwines i) cloud-based processing of big vector and raster data sets from GPS surveys, models and remote
+sensing, and ii) predictive modeling using data science techniques such as Random Forests. | 
+
+<a href="http://szwieback.github.io/files/syllabus_bgd_graduate_2023.pdf">Syllabus</a>
+
+*Fall 2023*
+
+## Introduction to Earth System Science
+
+|<img src="http://szwieback.github.io/files/iess.png" align="left" width="390" > | Introduction to principles of systems applied to the geosphere, hydrosphere, cryosphere, atmosphere, and biosphere. Co-taught with Tamara Harms and Uma Bhatt. | 
+
+<a href="https://www.uaf.edu/ess/courses.php">Link to website</a>
+
+*Fall 2023*
+
 ## Geoscience Applications of Remote Sensing
 
 |<a href="http://szwieback.github.io/files/syllabus_422_2023.pdf"><img src="http://szwieback.github.io/files/geos422.png" align="left" width="390" ></a> | Remote sensing and its applications to geologic, environmental and physical sciences. Includes physical principles, digital image processing and hands-on project experience using satellite images for mapping and change detection. |
