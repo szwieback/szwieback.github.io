@@ -10,9 +10,12 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ## Journal papers
 
 ### 2023
+Hillslope-channel transitions and the role of water tracks in a changing permafrost landscape   
+J. Del Vecchio, **S. Zwieback**, J. Rowland, R. DiBiase, M. Palucis   
+J. Geophys. Res. Earth Surface, in press, doi:10.1029/2023JF007156, 2023.
 
 Patterns and rates of soil movement and shallow failures across several small watersheds on the Seward Peninsula, Alaska   
-J. Del Vechio, E. Lathrop, J. Dann, C. Andresen, A. Collins, M. Fratkin, **S. Zwieback**, R. Glade, J. Rowland   
+J. Del Vecchio, E. Lathrop, J. Dann, C. Andresen, A. Collins, M. Fratkin, **S. Zwieback**, R. Glade, J. Rowland   
 Earth Surf. Dyn., 11, 227–245, doi:10.5194/esurf-11-227-2023, 2023. 
 
 ### 2022
