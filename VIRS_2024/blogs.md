@@ -15,11 +15,13 @@ The final project is an integral part of the course. The blog posts shown below 
 
 |<img src="/VIRS_2024/graham_4.png" align="left" width="200" > | [Emily Graham: Detecting Invasive Leafminers from Space](Graham.md)|
 
+## Beetle-killed trees
+
+|<img src="/VIRS_2024/DeMichele_spruce.jpg" align="left" width="200" > | [Kathleen DeMichele: Beetle kill spruce detection in Alaska's MSB](DeMichele.md)|
+
+
 ## Permafrost thaw
 
 |<img src="/VIRS_2024/Hobgood_12.jpeg" align="left" width="200" > | [Olivia Hobgood: The Ponding Arctic: Watching the Permafrost Thaw Through Historical Imagery](Hobgood.md)|
 
-## Beetle-killed trees
-
-|<img src="/VIRS_2024/DeMichele_spruce.jpg" align="left" width="200" > | [Kathleen DeMichele: Beetle kill spruce detection in Alaska's MSB](DeMichele.md)|
 
