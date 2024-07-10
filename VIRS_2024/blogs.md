@@ -11,15 +11,15 @@ The final project is an integral part of the course. The blog posts shown below 
 
 |<img src="/VIRS_2024/thapa_4a_barhabise.png" align="left" width="200" > | [Amrit Thapa: Landslide Mapping Using Artificial Intelligence in the Himalayas](Thapa.md)|
 
-## Sea ice
+## Invasive species
 
-|<img src="/VIRS_2022/Chapman_1.png" align="left" width="200" > | [Hannah Chapman-Dutton: How Do Summer Storms Affect Melting Sea Ice?](Chapman.md)|
+|<img src="/VIRS_2024/graham_4.png" align="left" width="200" > | [Emily Graham: Detecting Invasive Leafminers from Space](Graham.md)|
 
-## Equilibrium line altitude
+## Permafrost thaw
 
-|<img src="/VIRS_2022/Devaux4.jpg" align="left" width="200" > | [Victor Devaux-Chupin: A workflow for Equilibrium Line Altitude automatic/by-hand retrieval from Landsat/Sentinel images](Devaux.md)|
+|<img src="/VIRS_2024/Hobgood_12.jpeg" align="left" width="200" > | [Olivia Hobgood: The Ponding Arctic: Watching the Permafrost Thaw Through Historical Imagery](Hobgood.md)|
 
-## Water body classification
+## Beetle-killed trees
 
-|<img src="/VIRS_2022/Monroe_5.png" align="left" width="200" > | [Josh Monroe: Spectral Classification and Mapping of Alaskan Interior Water Bodies](Monroe.md)|
+|<img src="/VIRS_2024/DeMichele_spruce.jpg" align="left" width="200" > | [Kathleen DeMichele: Beetle kill spruce detection in Alaska's MSB](DeMichele.md)|
 
