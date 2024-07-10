@@ -17,7 +17,7 @@ author_profile: true
 
 |<a href="http://szwieback.github.io/files/syllabus_659.pdf"><img src="http://szwieback.github.io/files/preview_VIRS.png" align="left" width="390" ></a> | The course covers the principles and practice of remote sensing in the visible and infrared region, including spectral signatures, radiative transfer, image analysis, and information extraction. The laboratory part provides hands-on experience with multispectral, thermal, hyperspectral, and LiDAR data sets. Practical examples are drawn from geology, hydrology, and forestry. |
 
-Final project blog posts coming soon
+[Final project blog posts](../VIRS_2024/blogs.md)
 
 *Spring 2024*
 
