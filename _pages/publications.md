@@ -29,7 +29,6 @@ Earth Surf. Dyn., 11, 227–245, doi:10.5194/esurf-11-227-2023, 2023.
 
 Disparate permafrost terrain changes after a large flood observed from space   
 **S. Zwieback**, M. McClernan, M. Kanevskiy, M.T. Jorgenson, D.A. Walker, Q. Chang, H. Bergstedt, H. Toniolo, V.E. Romanovsky, F.J. Meyer   
-Zwieback, S., McClernan, M., Kanevskiy, M., Jorgenson, M.T., Walker, D.A., Chang, Q., Bergstedt, H., Toniolo, H., Romanovsky, V.E. and Meyer, F.J.   
 Permafrost and Periglacial Processes, 34(4), pp.451-466, 2023.
 
 ### 2022
