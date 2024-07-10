@@ -9,8 +9,8 @@ author_profile: false
 Foliage damage from birch leafminer infestations in central Alaska is rapidly escalating in a state known for its verdant forests and vibrant fall colors ([USFS, 2008](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev2_038169.pdf)). Tracking these infestations is critical for managing forest health, but traditional methods for mapping the foliage damage characteristic of a leafminer infestation, such as aerial and pedestrian surveys, are cumbersome, expensive, and are not suitable for mapping large areas ([Hall et al, 2016](https://www.cambridge.org/core/journals/canadian-entomologist/article/remote-sensing-of-forest-pest-damage-a-review-and-lessons-learned-from-a-canadian-perspective/FD254D701965AD576E249B0879693DF7)). They are also heavily dependent on weather conditions and a short seasonal window for data collection. 
 
 The Forest Service conducts the yearly mid-August Aerial Detection Survey in the Fairbanks area to map current birch leafminer infestation status, but wildfire activity prevented the 2023 survey ([USFS, 2023](https://www.fs.usda.gov/detailfull/r10/forest-grasslandhealth/?cid=FSEPRD567152)). The Forest Service is one of the leading sources of forest health data in the state, but no data exists for that season. Imagine if we had a more accurate way to map infestations that could be done any time of the year and only required a computer with an internet connection?
-http://szwieback.github.io/VIRS_2024/graham_1.png"
-<img src=http://szwieback.github.io/VIRS_2024/graham_1.png" alt="Late birch leaf edgeminer (*Profenusa thomsoni*) larva feeding inside a birch leaf leaf. Credit: USFS.">
+
+<img src="http://szwieback.github.io/VIRS_2024/graham_1.png" alt="Late birch leaf edgeminer (*Profenusa thomsoni*) larva feeding inside a birch leaf leaf. Credit: USFS.">
 
 *Late Birch Leaf Edgeminer larva feeding inside a birch leaf leaf. Credit: USFS.*
 
