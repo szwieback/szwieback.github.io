@@ -5,6 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Introduction to Earth System Science
+
+|<img src="http://szwieback.github.io/files/iess.png" align="left" width="390" > | Introduction to principles of systems applied to the geosphere, hydrosphere, cryosphere, atmosphere, and biosphere. Co-taught with Uma Bhatt. | 
+
+<a href="https://www.uaf.edu/ess/courses.php">Link to website</a>
+
+*Fall 2024*
+
+## Visible and Infrared Remote Sensing
+
+|<a href="http://szwieback.github.io/files/syllabus_659.pdf"><img src="http://szwieback.github.io/files/preview_VIRS.png" align="left" width="390" ></a> | The course covers the principles and practice of remote sensing in the visible and infrared region, including spectral signatures, radiative transfer, image analysis, and information extraction. The laboratory part provides hands-on experience with multispectral, thermal, hyperspectral, and LiDAR data sets. Practical examples are drawn from geology, hydrology, and forestry. |
+
+Final project blog posts coming soon
+
+*Spring 2024*
+
 ## Big Geospatial Data
 
 |<img src="http://szwieback.github.io/files/bgd.png" align="left" width="390" > | Analysis of large geospatial data sets and data-driven modeling for solving geoscientific problems. The class intertwines i) cloud-based processing of big vector and raster data sets from GPS surveys, models and remote sensing, and ii) predictive modeling using data science techniques such as Random Forests. | 

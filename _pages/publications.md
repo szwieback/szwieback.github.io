@@ -9,14 +9,28 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ## Journal papers
 
+### 2024
+Low-severity spruce beetle infestation mapped from high-resolution satellite imagery with a convolutional network   
+**S. Zwieback**, J. Young-Robertson, M. Robertson, Y. Tian, Q. Chang, M. Morris, J. White, J. Moan   
+ISPRS Journal of Photogrammetry and Remote Sensing, 212, 412-421, 2024.
+
+Excess ground ice profiles in continuous permafrost mapped from InSAR subsidence   
+**S. Zwieback**, G. Iwahana, S. Sakhalkar, R. Biessel, S. Taylor, F.J. Meyer   
+Water Resources Research, 60(2), p.e2023WR035331, 2024.
+
 ### 2023
 Hillslope-channel transitions and the role of water tracks in a changing permafrost landscape   
 J. Del Vecchio, **S. Zwieback**, J. Rowland, R. DiBiase, M. Palucis   
-J. Geophys. Res. Earth Surface, in press, doi:10.1029/2023JF007156, 2023.
+J. Geophys. Res. Earth Surface, 128(19), e2023JF007156, doi:10.1029/2023JF007156, 2023.
 
 Patterns and rates of soil movement and shallow failures across several small watersheds on the Seward Peninsula, Alaska   
 J. Del Vecchio, E. Lathrop, J. Dann, C. Andresen, A. Collins, M. Fratkin, **S. Zwieback**, R. Glade, J. Rowland   
 Earth Surf. Dyn., 11, 227–245, doi:10.5194/esurf-11-227-2023, 2023. 
+
+Disparate permafrost terrain changes after a large flood observed from space   
+**S. Zwieback**, M. McClernan, M. Kanevskiy, M.T. Jorgenson, D.A. Walker, Q. Chang, H. Bergstedt, H. Toniolo, V.E. Romanovsky, F.J. Meyer   
+Zwieback, S., McClernan, M., Kanevskiy, M., Jorgenson, M.T., Walker, D.A., Chang, Q., Bergstedt, H., Toniolo, H., Romanovsky, V.E. and Meyer, F.J.   
+Permafrost and Periglacial Processes, 34(4), pp.451-466, 2023.
 
 ### 2022
 
