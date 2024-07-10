@@ -11,6 +11,7 @@ The awe-inspiring [Himalayas](https://www.youtube.com/watch?v=C71XFE5x6eQ), desp
 
 <img src="http://szwieback.github.io/VIRS_2024/thapa_1.jpg" width="700"
 height="400">
+
 Figure 1: View of the Jure Landslide, one of the most devastating landslides that occurred in the Himalayas. Source: [The Kathmandu Post](https://kathmandupost.com/climate-environment/2020/02/13/climate-change-to-cause-frequent-landslides-in-the-himalayan-region-including-nepal-says-nasa)
 
 ## Harnessing the potential of remote sensing and artificial intelligence 
@@ -26,6 +27,7 @@ The [Landslide4Sense ](https://github.com/iarai/Landslide4Sense-2022) dataset is
 
 <img src="http://szwieback.github.io/VIRS_2024/thapa_2.gif" width="500"
 height="300">
+
 Figure 2: Geolocations of the selected case study areas plotted on a global landslide susceptibility map. Source: [Ghorbanzadeh et al. (2022)](https://arxiv.org/pdf/2206.00515)
 ## Model Setup
 
@@ -61,6 +63,7 @@ The basic workflow for testing the model is shown in the following figure 5. A g
 
 <img src="http://szwieback.github.io/VIRS_2024/thapa_5.jpg" width="900"
 height="380">
+
 Figure 5: Workflow for deploying a pre-trained model in a new location.
 ## Some Result
 The comparison between predictions from the pretrained model and the rasterized landslide inventory is illustrated in the figure 6. The figure highlights predicted landslides that match the ground truth [blue], as well as those not identified by the model [green], and areas misclassified as landslides by the model [orange]. The model performs reasonably well in predicting large landslides, but it struggles with predicting smaller ones. Additionally, the model tends to overestimate landslide areas, classifying many regions as landslide zones when they are not. The animation in Figure 7 demonstrates the visual contrast details for each 128 by 128 tile alongside the input dataset.
