@@ -10,6 +10,14 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ## Journal papers
 
 ### 2024
+Temporal Closure Signatures in Radar Interferometry   
+**S. Zwieback**, R. Biessel   
+IEEE Trans. Geosci. Remote Sens., doi:10.1109/TGRS.2024.3471712, 2024.
+
+Advances in InSAR Analysis of Permafrost Terrain   
+**S. Zwieback**, L. Liu, L. Rouyet, N. Short, T. Strozzi   
+Permafrost and Periglacial Processes, 35, 544-556. doi:10.1002/ppp.2248, 2024.
+
 Low-severity spruce beetle infestation mapped from high-resolution satellite imagery with a convolutional network   
 **S. Zwieback**, J. Young-Robertson, M. Robertson, Y. Tian, Q. Chang, M. Morris, J. White, J. Moan   
 ISPRS Journal of Photogrammetry and Remote Sensing, 212, 412-421, 2024.
