@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Geoscience Applications of Remote Sensing
+
+|<a href="http://szwieback.github.io/files/syllabus_422_2025.pdf"><img src="http://szwieback.github.io/files/logo_422.png" align="left" width="390" ></a> | Remote sensing and its applications to geologic, environmental and physical sciences. Includes physical principles, digital image processing and hands-on project experience using satellite images for mapping and change detection. |
+
+<a href="http://szwieback.github.io/files/syllabus_422_2025.pdf">Syllabus</a>
+
+*Spring 2025*
+
 ## Introduction to Earth System Science
 
 |<img src="http://szwieback.github.io/files/iess.png" align="left" width="390" > | Introduction to principles of systems applied to the geosphere, hydrosphere, cryosphere, atmosphere, and biosphere. Co-taught with Uma Bhatt. | 

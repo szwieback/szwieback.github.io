@@ -9,7 +9,16 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 
 ## Journal papers
 
+### 2025
+Thawing permafrost is subsiding in the Northern Hemisphere—review and perspectives   
+D. Streletskiy, A. Maslakov, G. Grosse, N. Shiklomanov, L. Farquharson, **S. Zwieback**, G. Iwahana, A. Bartsch, L. Liu, T. Strozzi, H. Lee, M. Debolskiy   
+Environ. Res. Lett., 20, 013006, 2025.
+
 ### 2024
+Unraveling the non-linear relationship between seasonal deformation and permafrost active layer thickness   
+T. Chang, Y. Yi, H. Jiang, R. Li, P. Lu, L. Liu, L. Wang, L. Zhao, **S. Zwieback**, J. Zhao   
+npj Climate and Atmospheric Science, 7(1), 308, 2024.
+
 Temporal Closure Signatures in Radar Interferometry   
 **S. Zwieback**, R. Biessel   
 IEEE Trans. Geosci. Remote Sens., doi:10.1109/TGRS.2024.3471712, 2024.
