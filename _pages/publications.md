@@ -10,6 +10,14 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ## Journal papers
 
 ### 2025
+InSAR estimates of excess ground ice concentrations near the permafrost table   
+**S. Zwieback**, G. Iwahana, Q. Chang, F. Meyer   
+ISPRS Journal of Photogrammetry and Remote Sensing 223, 261-273
+
+The Predictive Skill of a Remote Sensing-Based Machine Learning Model for Ice Wedge and Visible Ground Ice Identification in Western Arctic Canada   
+Q. Chang, **S. Zwieback**, A. Berg   
+Remote Sensing 17 (7), 1245
+
 Thawing permafrost is subsiding in the Northern Hemisphere—review and perspectives   
 D. Streletskiy, A. Maslakov, G. Grosse, N. Shiklomanov, L. Farquharson, **S. Zwieback**, G. Iwahana, A. Bartsch, L. Liu, T. Strozzi, H. Lee, M. Debolskiy   
 Environ. Res. Lett., 20, 013006, 2025.
