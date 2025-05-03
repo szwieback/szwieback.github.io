@@ -14,6 +14,10 @@ Evaluating aufeis detection methods using Landsat imagery: Comparative assessmen
 *J. Dann*, **S. Zwieback**, P. Leonard, W.R. Bolton    
 Science of Remote Sensing (11), 100230, 2025.
 
+InSAR estimates of excess ground ice concentrations near the permafrost table   
+**S. Zwieback**, G. Iwahana, Q. Chang, F. Meyer   
+ISPRS Journal of Photogrammetry and Remote Sensing 223, 261-273
+
 The Predictive Skill of a Remote Sensing-Based Machine Learning Model for Ice Wedge and Visible Ground Ice Identification in Western Arctic Canada   
 Q. Chang, **S. Zwieback**, A. Berg   
 Remote Sensing 17 (7), 1245, 2025.
