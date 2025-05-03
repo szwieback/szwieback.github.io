@@ -18,11 +18,11 @@ author_profile: true
 
 *Complex feedback processes control the backwasting of such debris-covered thaw slumps.*
 
-## Scattering models and estimation algorithms for Arctic environments
+## Deep learning for boreal forest health
 
-|<a href="http://szwieback.github.io/files/speckle.png"><img src="http://szwieback.github.io/files/speckle.png" align="left" width="390" ></a> | Arctic ecosystems present numerous challenges for remote sensing models and estimation algorithms, including microtopographic features such as ice wedge polygons and organic soils. I am developing bespoke remote sensing solutions for measuring permafrost terrain changes, soil moisture, and vegetation moisture. The theoretical and empirical characterization of model and estimation errors is an integral component of my work.  |
+|<a href="http://szwieback.github.io/files/beetle.png"><img src="http://szwieback.github.io/files/beetle.png" align="left" width="390" ></a> | In light of insect outbreaks, fire and permafrost degradation, stakeholders need reliable data products on forest health. For instance, tree mortality during the ongoing spruce beetle outbreak in Alaska needs to be known for fire prediction, timber and utilities management, and for understanding the ecological impacts of the outbreak. Using deep learning applied to high-resolution satellite imagery, individual dead spruce can be quantified at the tree and stand level. |
 
-*In the permafrost wetland with degrading ice-wedge polygons, our KMWG interferometric speckle model fits the observations better than existing models (green and yellow).*
+*Automatic mapping of dead spruce trees using a deep convolutional neural network.*
 
 
 
