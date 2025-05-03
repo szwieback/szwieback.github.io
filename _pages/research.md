@@ -20,7 +20,7 @@ author_profile: true
 
 ## Deep learning for boreal forest health
 
-|<a href="http://szwieback.github.io/files/beetle.png"><img src="http://szwieback.github.io/files/beetle.png" align="left" width="390" ></a> | In light of insect outbreaks, fire and permafrost degradation, stakeholders need reliable data products on forest health. For instance, tree mortality during the ongoing spruce beetle outbreak in Alaska needs to be known for fire prediction, timber and utilities management, and for understanding the ecological impacts of the outbreak. Using deep learning applied to high-resolution satellite imagery, individual dead spruce can be quantified at the tree and stand level. |
+|<a href="http://szwieback.github.io/files/beetle.jpg"><img src="http://szwieback.github.io/files/beetle.jpg" align="left" width="390" ></a> | In light of insect outbreaks, fire and permafrost degradation, stakeholders need reliable data products on forest health. For instance, tree mortality during the ongoing spruce beetle outbreak in Alaska needs to be known for fire prediction, timber and utilities management, and for understanding the ecological impacts of the outbreak. Using deep learning applied to high-resolution satellite imagery, individual dead spruce can be quantified at the tree and stand level. |
 
 *Automatic mapping of dead spruce trees using a deep convolutional neural network.*
 
