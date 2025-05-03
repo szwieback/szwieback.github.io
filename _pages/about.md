@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I use remote sensing to characterize and understand land surface processes in permafrost regions. My research program strives to combine technical advances in remote sensing of high-latitude regions with an improved understanding of the rapidly changing Arctic. My primary objectives are to map ground ice contents on regional scales and to identify the drivers and controls of various types of permafrost degradation and stabilization.
+I use remote sensing and geospatial data analysis to characterize land surface processes in permafrost regions. My research program strives to combine technical advances in remote sensing with an improved understanding of the rapidly changing Arctic. My primary objectives are to map ground ice dynamics on regional scales and to identify the drivers and controls of various types of permafrost degradation and stabilization.
