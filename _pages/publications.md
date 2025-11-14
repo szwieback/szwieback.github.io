@@ -10,13 +10,17 @@ Please see my [Researchgate](https://www.researchgate.net/profile/Simon_Zwieback
 ## Journal papers
 
 ### 2025
+Trends and drivers of Arctic lake color change from Landsat time series    
+Q. Chang, **S. Zwieback**, A. Berg    
+International Journal of Applied Earth Observation and Geoinformation (145), 104952, 2025.
+
 Evaluating aufeis detection methods using Landsat imagery: Comparative assessment and recommendations    
 *J. Dann*, **S. Zwieback**, P. Leonard, W.R. Bolton    
 Science of Remote Sensing (11), 100230, 2025.
 
 InSAR estimates of excess ground ice concentrations near the permafrost table   
 **S. Zwieback**, G. Iwahana, Q. Chang, F. Meyer   
-ISPRS Journal of Photogrammetry and Remote Sensing 223, 261-273
+ISPRS Journal of Photogrammetry and Remote Sensing 223, 261-273, 2025.
 
 The Predictive Skill of a Remote Sensing-Based Machine Learning Model for Ice Wedge and Visible Ground Ice Identification in Western Arctic Canada   
 Q. Chang, **S. Zwieback**, A. Berg   
